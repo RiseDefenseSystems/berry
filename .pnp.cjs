@@ -9643,7 +9643,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@yarnpkg/parsers", "workspace:packages/yarnpkg-parsers"],\
           ["@types/js-yaml", "npm:3.12.5"],\
-          ["js-yaml", "npm:3.14.1"],\
+          ["js-yaml", "npm:4.1.1"],\
           ["pegjs", "npm:0.10.0"],\
           ["tslib", "npm:2.6.2"]\
         ],\
@@ -27685,6 +27685,14 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/js-yaml-npm-4.1.0-3606f32312-c138a34a3f.zip/node_modules/js-yaml/",\
         "packageDependencies": [\
           ["js-yaml", "npm:4.1.0"],\
+          ["argparse", "npm:2.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.1.1", {\
+        "packageLocation": "./.yarn/cache/js-yaml-npm-4.1.1-86ec786790-a52d0519f0.zip/node_modules/js-yaml/",\
+        "packageDependencies": [\
+          ["js-yaml", "npm:4.1.1"],\
           ["argparse", "npm:2.0.1"]\
         ],\
         "linkType": "HARD"\
