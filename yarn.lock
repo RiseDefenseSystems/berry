@@ -5513,7 +5513,7 @@ __metadata:
     clipanion: "npm:^4.0.0-rc.2"
     comment-json: "npm:^2.2.0"
     cross-spawn: "npm:^7.0.3"
-    diff: "npm:^5.1.0"
+    diff: "npm:^8.0.3"
     dotenv: "npm:^16.3.1"
     esbuild: "npm:esbuild-wasm@^0.23.0"
     fast-glob: "npm:^3.2.2"
@@ -5958,7 +5958,7 @@ __metadata:
     "@yarnpkg/plugin-essentials": "workspace:^"
     algoliasearch: "npm:^4.2.0"
     clipanion: "npm:^4.0.0-rc.2"
-    diff: "npm:^5.1.0"
+    diff: "npm:^8.0.3"
     ink: "npm:^3.2.0"
     ink-text-input: "npm:^4.0.3"
     react: "npm:^17.0.2"
@@ -9103,10 +9103,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"diff@npm:^5.1.0":
-  version: 5.1.0
-  resolution: "diff@npm:5.1.0"
-  checksum: 10/f4557032a98b2967fe27b1a91dfcf8ebb6b9a24b1afe616b5c2312465100b861e9b8d4da374be535f2d6b967ce2f53826d7f6edc2a0d32b2ab55abc96acc2f9d
+"diff@npm:^8.0.3":
+  version: 8.0.3
+  resolution: "diff@npm:8.0.3"
+  checksum: 10/52f957e1fa53db4616ff5f4811b92b22b97a160c12a2f86f22debd4181227b0f6751aa8fd711d6a8fcf4618acb13b86bc702e6d9d6d6ed82acfd00c9cb26ace2
   languageName: node
   linkType: hard
 
