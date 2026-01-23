@@ -5518,7 +5518,7 @@ __metadata:
     esbuild: "npm:esbuild-wasm@^0.23.0"
     fast-glob: "npm:^3.2.2"
     got: "npm:^11.7.0"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     micromatch: "npm:^4.0.2"
     p-limit: "npm:^2.2.0"
     rollup: "npm:^2.59.0"
@@ -5609,7 +5609,7 @@ __metadata:
     git-url-parse: "npm:^13.1.0"
     github-markdown-css: "npm:^5.1.0"
     jiti: "npm:^1.21.0"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     markdown-it: "npm:^13.0.1"
     markdown-it-br: "npm:^1.0.0"
     marked: "npm:^5.1.1"
@@ -5808,7 +5808,7 @@ __metadata:
     "@yarnpkg/fslib": "workspace:^"
     "@yarnpkg/types": "workspace:^"
     clipanion: "npm:^4.0.0-rc.2"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     tau-prolog: "npm:^0.2.66"
     tslib: "npm:^2.4.0"
   peerDependencies:
@@ -5847,7 +5847,7 @@ __metadata:
     ci-info: "npm:^4.0.0"
     clipanion: "npm:^4.0.0-rc.2"
     enquirer: "npm:^2.3.6"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     micromatch: "npm:^4.0.2"
     semver: "npm:^7.1.2"
     tslib: "npm:^2.4.0"
@@ -5896,7 +5896,7 @@ __metadata:
     "@yarnpkg/fslib": "workspace:^"
     clipanion: "npm:^4.0.0-rc.2"
     git-url-parse: "npm:^13.1.0"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     semver: "npm:^7.1.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
@@ -6041,7 +6041,7 @@ __metadata:
     "@yarnpkg/fslib": "workspace:^"
     "@yarnpkg/plugin-pack": "workspace:^"
     enquirer: "npm:^2.3.6"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     semver: "npm:^7.1.2"
     ssri: "npm:^6.0.1"
     tslib: "npm:^2.4.0"
@@ -6178,7 +6178,7 @@ __metadata:
     "@yarnpkg/plugin-git": "workspace:^"
     clipanion: "npm:^4.0.0-rc.2"
     ink: "npm:^3.2.0"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     react: "npm:^17.0.2"
     semver: "npm:^7.1.2"
     tslib: "npm:^2.4.0"
@@ -6261,7 +6261,7 @@ __metadata:
     chalk: "npm:^3.0.0"
     clipanion: "npm:^4.0.0-rc.2"
     comment-json: "npm:^2.2.0"
-    lodash: "npm:^4.17.15"
+    lodash: "npm:^4.17.23"
     tslib: "npm:^2.4.0"
   bin:
     sdks: ./sources/boot-cli-dev.js
@@ -14115,6 +14115,13 @@ __metadata:
   version: 4.17.21
   resolution: "lodash@npm:4.17.21"
   checksum: 10/c08619c038846ea6ac754abd6dd29d2568aa705feb69339e836dfa8d8b09abbb2f859371e86863eda41848221f9af43714491467b5b0299122431e202bb0c532
+  languageName: node
+  linkType: hard
+
+"lodash@npm:^4.17.23":
+  version: 4.17.23
+  resolution: "lodash@npm:4.17.23"
+  checksum: 10/82504c88250f58da7a5a4289f57a4f759c44946c005dd232821c7688b5fcfbf4a6268f6a6cdde4b792c91edd2f3b5398c1d2a0998274432cff76def48735e233
   languageName: node
   linkType: hard
 
